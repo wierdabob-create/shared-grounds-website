@@ -238,6 +238,12 @@ p { margin: 0 0 16px; color: var(--text-soft); }
   margin: 0;
 }
 
+.price .size {
+  font-size: 0.9rem;
+  font-weight: normal;
+  color: var(--text-soft);
+}
+
 .products-footnote {
   text-align: center;
   margin-top: 36px;
