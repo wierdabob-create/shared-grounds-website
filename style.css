@@ -77,6 +77,14 @@ p { margin: 0 0 16px; color: var(--text-soft); }
   color: var(--coffee-dark);
   text-decoration: none;
   letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+}
+
+.wordmark img {
+  height: 56px;
+  width: auto;
+  display: block;
 }
 
 .wordmark span { color: var(--gold); }
